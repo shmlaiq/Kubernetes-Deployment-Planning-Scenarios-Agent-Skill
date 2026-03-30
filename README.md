@@ -181,4 +181,3 @@ These are **planning documents only** — no Kubernetes YAML code is included by
 
 ---
 
-*Built with ❤️ using the K8 Planning Skill framework*
