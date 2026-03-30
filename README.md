@@ -2,7 +2,8 @@
 
 > **Kubernetes deployment planning for AI-native applications — no code, only architecture.**
 
-**Author:** Muhammad Faisal Laiq Siddiqui    
+**Author:** Muhammad Faisal Laiq Siddiqui -  
+400-P010 
 **Date:** March 2026
 ---
 
